@@ -6,11 +6,8 @@ package es.reservas.controller;
 
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.time.DateTimeException;
-import java.time.LocalDate;
 import java.util.Arrays;
 import java.util.Calendar;
-import java.util.Date;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.regex.PatternSyntaxException;
